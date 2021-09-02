@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/soumi0705/soumi0705/blob/master/assets/banner.png?raw=true" width="90%" title="Banner">
+  <img src="https://github.com/Anveshdeo/Anveshdeo/blob/master/assets/Getting_Things_Done_Overview.png?raw=true" width="90%" title="Getting_Things_Done_Overview">
 </p>
-<!--![banner](https://github.com/soumi0705/soumi0705/blob/master/assets/banner.png?raw=true)-->
+<!--![banner](https://github.com/Anveshdeo/Anveshdeo/blob/master/assets/Getting_Things_Done_Overview.png?raw=true)-->
 
 
 ***Hi There!!***
