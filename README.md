@@ -4,8 +4,8 @@
 <!--![banner](https://github.com/soumi0705/soumi0705/blob/master/assets/banner.png?raw=true)-->
 
 
-### Hi there, Welcome to [Soumitro's](https://soumi0705.github.io/web-portfolio/) Github Profile 👋 
-#### I am a Web Developer, really interested in Solidity Development 
+***Hi There!!***
+#### I am a Data Science enthusiast, really interested learning new tools and working on some real time project.
 - 🔭 I’m currently working on [EdLαnce](https://www.notion.so/a7bbbbd26b0b4a5084ec218f013fed84?v=fe2585a4f98b4ed5a419b4268a57e3a5)
 <!--
 [M. Terrain Designs](https://mterraintester07.herokuapp.com/)
