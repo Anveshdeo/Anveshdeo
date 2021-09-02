@@ -1,10 +1,9 @@
-<p align="center">
-  <img src="https://github.com/Anveshdeo/Anveshdeo/blob/master/assets/Getting_Things_Done_Overview.png?raw=true" width="90%" title="Getting_Things_Done_Overview">
-</p>
-<!--![banner](https://github.com/Anveshdeo/Anveshdeo/blob/master/assets/Getting_Things_Done_Overview.png?raw=true)-->
+
+![AIutSlDKlWDEbz4wrdgH0qTHrMiV_8mVNO-_-ejbVMKIs15hBi1atok6wGgefVTaHvPbd5lnjHTHcdocmzblaTHF-k69dMbpDVESI_D6GVF0w1qtCYGs3BMPL39w95hwggJAC_d8](https://user-images.githubusercontent.com/79392789/131823964-f467d8a9-a3c5-4edc-8368-365f93a4a808.png)
 
 
-***Hi There!!***
+
+***Hi There 👋!!***
 #### I am a Data Science enthusiast, really interested in learning new tools and working on some real time project.
 - 🔭
 - 🌱 
@@ -18,7 +17,7 @@
 ### Connect With Me On:
 📷 [Instagram][instagram] **|** 
 👔 [LinkedIn][linkedin] **|**
-:wrench:[HackerRank][hackerrank]
+
 
 
 [instagram]: https://www.instagram.com/mr.deo__/
