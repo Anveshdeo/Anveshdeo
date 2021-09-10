@@ -5,7 +5,7 @@
 
 ***Hi There 👋!!***
 #### I am a Data Science enthusiast, really interested in learning new tools and working on some real time project.
-- 🔭
+- 🔭 Currently working on NLP and SQL.
 - 🌱 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anveshdeo&hide=hack,ejs,php&langs_count=6&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
