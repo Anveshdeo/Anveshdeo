@@ -1,4 +1,4 @@
-![Machine_Learning_feature-630x470](https://user-images.githubusercontent.com/79392789/132948356-211e6f64-a7dc-4c9b-b44c-8d3e6f02a7bd.jpg)
+<img src="https://user-images.githubusercontent.com/79392789/132948356-211e6f64-a7dc-4c9b-b44c-8d3e6f02a7bd.jpg" width="1080" height="450">
 
 ***Hi There 👋!!***
 #### I am a Data Science enthusiast, really interested in learning new tools and working on some real time project.
