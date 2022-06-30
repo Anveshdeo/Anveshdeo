@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/79392789/132948356-211e6f64-a7dc-4c9b-b44c-8d3e6f02a7bd.jpg" width="1080" height="450">
+<img src="https://assets.website-files.com/5e836f13a498854ac50bd874/5e8fc943c3c15b60f0c8817c_main-qimg-0a0a0e3438c27898345aa21a964b4cdd.png" width="1080" height="450">
 
 ***Hi There 👋!!***
 #### I am a Data Science enthusiast, really interested in learning new tools and working on some real time project.
